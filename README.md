@@ -16,7 +16,7 @@
 ![Supply chaon - 2](https://github.com/user-attachments/assets/ec2be8d3-4b62-4a64-9a8d-787594dd9049)
     
 ##   3. Revenue generated across different shipping carriers.
-     Analysis shows carrier B helps the company in generating more revenue than C and A.
+###     Analysis shows carrier B helps the company in generating more revenue than C and A.
 
  ![supply chain 3](https://github.com/user-attachments/assets/3c916230-58c7-44a4-b6dc-119faaee2db6)
    
